@@ -7,7 +7,7 @@
 .xo {
     position: absolute;
     right: 100px;
-    height: 100vh;
+    top: 100px;
 }
 
 h2 {
@@ -51,7 +51,7 @@ h2 {
     }
 
     img {
-        margin-left: 200px;
+        margin-left: 100px;
         padding-top: 50px;
         float: left;
     }
